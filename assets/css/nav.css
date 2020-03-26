@@ -1,0 +1,15 @@
+#nav {
+  background-color: #c08374;
+  height: 50px;
+  line-height: 50px;
+  width: 1000px;
+  margin: auto;
+  vertical-align: middle;
+  border: 1px solid #a76358;
+}
+
+.nav_button {
+  float: left;
+  text-align: center;
+  line-height: 50px;
+}
